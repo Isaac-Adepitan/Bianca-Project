@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200;300&display=swap');
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 3em;;
+}
+
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 1em;
+}
+
+
+
+
+/** Button Styles **/
+
+.btn-danger {
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 40px;
+    border-color: none;
+}
+
+.btn-danger:hover {
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 40px;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.15));
+    border-color: none;
+}
+
+
+
+
+
+
+
+/** Footer with Matric Numbers **/
+
+div.fixed {
+    position: fixed;
+    width: 50%;
+    bottom: 10px;
+  } 
