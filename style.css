@@ -13,10 +13,13 @@
   
 .left {
     flex: 60%;
+    height: 100vh;
+    overflow: hidden;
   }
 
 .right {
-      flex:40%;
+      flex: 40%;
+      height: 100vh;
       overflow: hidden;
   }
 
